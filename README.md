@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Etzio</h1>
 <h3 align="center">Iam from chile :)</h3>
 
-<h3 align="left">Connect  with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/enzoxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="enzoxs" height="30" width="40" /></a>
 <a href="https://twitter.com/etzio01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="etzio01" height="30" width="40" /></a>
