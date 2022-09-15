@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, Iam Etzio</h1>
-<h1 align="center">Hola 👋, soy Etzio</h1>
+<h1 align="center">Hola, soy Etzio</h1>
 <h3 align="center">I'm from chile </h3>
 
 <h3 align="left">Connect with me:</h3>
